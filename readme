@@ -70,3 +70,8 @@ app.listen(port, () => console.log(`Server running on port ${port}`));
 - Ensure you handle API keys securely and do not expose them in client-side code.
 - You may need to handle CORS (Cross-Origin Resource Sharing) depending on your setup.
 - Make sure to follow the API's terms of use, especially regarding request limits and attribution.
+
+
+
+
+
