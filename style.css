@@ -1,17 +1,4 @@
-
-
-.header-division {
-    display: grid;
-    grid-template-columns: 1fr 2fr; /* Two columns with equal width */
-    gap: 20px; /* Optional: Add some gap between the columns */
-    padding: 5px 15px;
-  }
-  
-  .leftside {
-    background-color: antiquewhite;
-  }
-  
-  .rightside {
-    background-color: azure;
-  }
-  
+body{
+  background-image: url(images/brooke-lark-08bOYnH_r_E-unsplash.jpg);
+  background-position: center ;
+}
